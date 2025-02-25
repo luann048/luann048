@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Desenvolvedor Backend Java  <br>📘 Estudante de Análise e Desenvolvimento de Sistemas - SENAI, Tubarão, SC  <br>🗃️ SQL e NoSQL databases  <br>🌱 Spring Framework  <br>🚀 Aprendendo sobre JavaScript, APIs e Arquitetura de Software
+☕ Desenvolvedor Backend Java  <br>📘 Estudante de Análise e Desenvolvimento de Sistemas - IFSC, Tubarão, SC  <br>🗃️ SQL e NoSQL databases  <br>🌱 Spring Framework  <br>🚀 Aprendendo sobre JavaScript, APIs e Arquitetura de Software
 
 
 ## 🌐 Socials:
